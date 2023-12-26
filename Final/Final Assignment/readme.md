@@ -1,1 +1,7 @@
+Group-5 Final term assignment. Detecting Mask using AlexNet
+Members:
+SAIDA BINTA ALAM: 20-43880-2  
+TAZRIF YAMSHIT RAIM: 21-45012-2  
+SAFUAN ALAM SAIFEE: 20-41861-1  
+ARAFATH HOSSEN SANTO: 20-43859-2
 
